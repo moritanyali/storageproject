@@ -1,0 +1,38 @@
+Beyaz esya depo projesi
+
+
+Bu programda;
+1-Bayi ve depo calisanlari stok miktarina ulasabilmelidir.
+2-Biz sistemimizle ister bayi ister depo sistemine giris yapabilecegiz.
+
+----------Stok Bilgileri----------------------
+  *Ürün kod numarasi
+  *Ürün adedi
+----------------------------------------------
+
+3-Stoga yeni urun girisini sadece depo calisanlari yapabilir.
+4-Stoktan urun gonderimini sadece bayi yapabilir.
+5-Bayi ve depo calisanlari stok hareket dokumune ulasabilir.
+
+
+-------Depo Calisan Program Fonksiyonlari-----
+  *Urun girisi
+  *Urun listeleme
+  *Urun stok bilgisi arama
+  *Son yapilan 5 islemi liste halinde gorme
+----------------------------------------------
+
+-------Bayi Calisan Program Fonksiyonlari-----
+  *Urun cikisi
+  *Urun cikislarinda ilgili urunun stogu tukendigi takdirde uyari mesaji
+  *Urun listeleme
+  *Urun stok bilgisi arama
+  *Son yapilan 5 islemi liste halinde gorme
+----------------------------------------------
+
+--------Program Genel Fonksiyonlari-----------
+  *Ana Menu
+  *Cikis
+----------------------------------------------
+
+
