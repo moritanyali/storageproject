@@ -21,6 +21,7 @@ public class Runner {
             do {
                 System.out.println();
                 System.out.println("|*******BEYAZ ESYA DEPO SISTEMI ANA MENU*******|");
+                System.out.println("|*******BY OGUZHAN AYDIN*******|");
                 System.out.println();
                 System.out.println("Lutfen yapmak istediginiz islemi secin.");
                 System.out.println("1- Depo calisan girisi");
